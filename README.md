@@ -15,6 +15,7 @@ A continuación, se detallan los módulos y las actividades que he completado:
 ### Módulo 3: JavaScript desde Cero
 - **Actividad 1**: [Introducción a JavaScript (Tipos de datos)](https://github.com/eduardotec05/JavaScriptDesdeCero/tree/main/IntroduccionAJavaScript)
 - **Actividad 2**: [Comparaciones y decisiones en JavaScript (Variables, comparaciones y toma de decisiones)](https://github.com/eduardotec05/JavaScriptDesdeCero/tree/main/ComparacionesYDecisiones)
+- **Actividad 3**: [Arreglos y cliclos](https://github.com/eduardotec05/JavaScriptDesdeCero-DEV-F-/tree/main/ArreglosYCiclos)
 
 ## 🚀 Proyectos
 
