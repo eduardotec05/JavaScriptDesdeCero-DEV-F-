@@ -17,7 +17,8 @@ A continuación, se detallan los módulos y las actividades que he completado:
 - **Actividad 2**: [Comparaciones y decisiones en JavaScript (Variables, comparaciones y toma de decisiones)](https://github.com/eduardotec05/JavaScriptDesdeCero/tree/main/ComparacionesYDecisiones)
 - **Actividad 3**: [Arreglos y cliclos](https://github.com/eduardotec05/JavaScriptDesdeCero-DEV-F-/tree/main/ArreglosYCiclos)
 - **Actividad 4**: [Proyecto Funciones](https://github.com/eduardotec05/JavaScriptDesdeCero-DEV-F-/tree/main/Funciones) 
-- **Actividad 5**: [Objetos](https://github.com/eduardotec05/JavaScriptDesdeCero-DEV-F-/tree/main/Objetos) 
+- **Actividad 5**: [Objetos](https://github.com/eduardotec05/JavaScriptDesdeCero-DEV-F-/tree/main/Objetos)
+- **Actividad 6**: [Intro al DOM en JavaScript](https://github.com/eduardotec05/JavaScriptDesdeCero-DEV-F-/tree/main/DOM) 
 
 ## 🚀 Proyectos
 
