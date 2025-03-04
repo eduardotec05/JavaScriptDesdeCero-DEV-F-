@@ -22,7 +22,8 @@ A continuación, se detallan los módulos y las actividades que he completado:
 - **Actividad 7**: [Generador de passwords](https://github.com/eduardotec05/JavaScriptDesdeCero-DEV-F-/tree/main/GeneradorDePasswords) 
 
 ## 🚀 Proyectos
-
+- **Generador de contraseñas**: [Generador de passwords](https://github.com/eduardotec05/JavaScriptDesdeCero-DEV-F-/tree/main/GeneradorDePasswords) 
+- **Proyecto Final**: [Caja de comentarios](https://github.com/eduardotec05/JavaScriptDesdeCero-DEV-F-/tree/main/ProductoFinal) 
 
 ## 🛠️ Tecnologías Utilizadas
 
