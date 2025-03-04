@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Generador de Passwords</title>
+</head>
+
+<body>
+    <main>
+        <div class="container">
+            <h1>Generador de contraseñas</h1>
+
+            <div class="password-display">
+                <div class="password" id="password">V0ojkzSd5m</div>
+                <button class="copy-btn" id="copy-btn">📋</button>
+            </div>
+
+            <div class="length-control">
+                <div class="length-label">
+                    <span>Número de caracteres</span>
+                    <span class="length-value" id="length-value">10</span>
+                </div>
+                <input type="range" min="4" max="20" value="10" class="slider" id="length-slider">
+            </div>
+
+            <div class="options">
+                <div class="option">
+                    <input type="checkbox" checked class="checkbox" id="uppercase">
+                    <label class="option-label" for="uppercase">Incluir mayúsculas</label>
+                </div>
+                <div class="option">
+                    <input type="checkbox" checked class="checkbox" id="lowercase">
+                    <label class="option-label" for="lowercase">Incluir minúsculas</label>
+                </div>
+                <div class="option">
+                    <input type="checkbox" checked class="checkbox" id="numbers">
+                    <label class="option-label" for="numbers">Incluir números</label>
+                </div>
+                <div class="option">
+                    <input type="checkbox" class="checkbox" id="symbols">
+                    <label class="option-label" for="symbols">Incluir símbolos</label>
+                </div>
+            </div>
+
+            <div class="strength-meter">
+                <span class="strength-text">SEGURIDAD</span>
+                <div style="display: flex; align-items: center; gap: 10px;">
+                    <span class="strength-value">MEDIA</span>
+                    <div class="strength-bars">
+                        <div class="bar active"></div>
+                        <div class="bar active"></div>
+                        <div class="bar active"></div>
+                        <div class="bar"></div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="generate-btn" id="generate-btn">
+                Generar
+                <span class="arrow">→</span>
+            </button>
+        </div>
+
+        <div class="information">
+            <p>Generador de contraseñas por <a href="https://github.com/eduardotec05" target="_blank">Eduardo Padilla</a></p>
+        </div>
+            <script src="script.js"></script>
+    </main>
+</body>
+
+</html>
